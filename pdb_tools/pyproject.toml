@@ -3,13 +3,13 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "your_name_pdb_tools"
+name = "kehmsen_pdb_tools"
 version = "0.1.0"
 description = "Tools to work with PDB files"
 readme = "README.md"
 requires-python = ">=3.7"
 authors = [
-    {name = "Your Name", email = "you@example.com"}
+    {name = "Kirk Ehmsen", email = "kirk_ehmsen@berkeley.edu"}
 ]
 keywords = ["biology", "bioinformatics", "protein"]
 classifiers = [
